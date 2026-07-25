@@ -1,0 +1,11 @@
+📌 VIDEO SOURCE FOUND:
+- Course: Sigma Web Development
+- Lecture Number: 01
+- Video Title: Introduction
+- Timestamp: 00:16 to 00:24
+
+📝 EXPLANATION:
+In this segment, the instructor introduces the foundational concepts of web development, starting from the very basics. It specifically defines HTML as Hypertext Markup Language, which is used to structure content through the use of markup.
+
+🚀 ACTION:
+"Go to Lecture #01 at 00:16 to learn about this topic."
