@@ -1,0 +1,152 @@
+{
+    "language": "en",
+    "chunks": [
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Web pages are filled with a C of words."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 3.0,
+            "end": 8.0,
+            "text": " If all the words look the same, your readers could get lost or worse bored."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 8.0,
+            "end": 15.0,
+            "text": " In order to spice up the page and keep readers engaged, you should use HTML headings."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 15.0,
+            "end": 21.0,
+            "text": " HTML headings make titles and subtitles stand out in the C of words on a web page."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 21.0,
+            "end": 25.0,
+            "text": " Here's what a page looks like without headings."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " Here's what it looks like with headings."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " You can see now why headings are a must."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 31.0,
+            "end": 35.0,
+            "text": " They appear bigger and with more space, the normal paragraphs."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 35.0,
+            "end": 38.0,
+            "text": " There are six different heading levels."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 38.0,
+            "end": 43.0,
+            "text": " The levels range from H1 to H6 and each heading level has a rank."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 43.0,
+            "end": 47.0,
+            "text": " H1 is the largest and most important heading."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 47.0,
+            "end": 54.0,
+            "text": " H2 is the second and on and on to H6, which is the least important heading."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 54.0,
+            "end": 57.0,
+            "text": " Each HTML heading has a default size."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 57.0,
+            "end": 64.0,
+            "text": " You can change the size with the style attribute using the CSS font size property."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 64.0,
+            "end": 69.0,
+            "text": " And to change the color of the heading, you can use the CSS color property."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 69.0,
+            "end": 72.0,
+            "text": " Headings are important for many reasons."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 72.0,
+            "end": 75.0,
+            "text": " People often skim a page by its headings."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 75.0,
+            "end": 79.0,
+            "text": " This way, they can go right to the information they need."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 79.0,
+            "end": 85.0,
+            "text": " Search engines use the headings to index the structure and content of your web pages."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 85.0,
+            "end": 89.0,
+            "text": " See, the search result shows the heading from the page."
+        },
+        {
+            "number": "05",
+            "title": "Headings",
+            "start": 89.0,
+            "end": 96.0,
+            "text": " If you want to engage your readers and get indexed properly, be sure to use headings correctly."
+        }
+    ]
+}

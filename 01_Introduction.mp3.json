@@ -1,0 +1,166 @@
+{
+    "language": "en",
+    "chunks": [
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 0.0,
+            "end": 6.96,
+            "text": " Hello! So you want to learn how to make websites. In that case, you need to learn HTML."
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 8.24,
+            "end": 16.240000000000002,
+            "text": " Let's start at the very beginning. What exactly is HTML? And why do I need it? Let's break it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 16.240000000000002,
+            "end": 24.560000000000002,
+            "text": " down from the basics and build our way up. HTML stands for Hypertext Markup Language. It uses markup"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 24.560000000000002,
+            "end": 31.28,
+            "text": " to describe the structure of web pages. The structure is built up by elements and they are"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 31.28,
+            "end": 40.88,
+            "text": " represented by tags, tags label pieces of content such as heading, paragraph, table and so on."
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 42.800000000000004,
+            "end": 47.760000000000005,
+            "text": " These tags aren't shown in the page but are used to display content in different ways."
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 48.16,
+            "end": 56.08,
+            "text": " That's a lot to digest, so let's go into it. First, let's try it together. Don't worry about"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 56.08,
+            "end": 63.92,
+            "text": " understanding. It'll all click as we work through it. We start by declaring that this is an HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 63.92,
+            "end": 72.72,
+            "text": " document. The HTML is the root element of any HTML page. The head contained meta information about"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 72.72,
+            "end": 81.84,
+            "text": " the document. The title element specifies a title for the document. The body contains the visible"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 81.84,
+            "end": 92.08,
+            "text": " page content. Finally, the H1 defines a large heading while P defines a paragraph. With everything"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 92.08,
+            "end": 100.08,
+            "text": " set in the order, let's go into the explanation of how tags work. Tags typically come in pairs,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 100.08,
+            "end": 106.88,
+            "text": " a start tag and the end tag. The end tag is written just like the start tag but with a forward"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 106.88,
+            "end": 113.36,
+            "text": " slash inserted before the tag name. Here we've got the tag name and the forward slash tag name"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 114.56,
+            "end": 121.75999999999999,
+            "text": " and the content of the element in between them. So this was a paragraph we'd use P, forward slash"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 121.76,
+            "end": 131.04,
+            "text": " P and some text in the middle. Let's play a game. See if we can correctly match, start and end tags"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 131.04,
+            "end": 149.6,
+            "text": " together. So what turns HTML code and elements into a viewable website? Well, that's where web"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 149.6,
+            "end": 156.24,
+            "text": " browsers come in. The purpose of a web browser, be it Chrome, Firefox, Edge or Safari, is to read"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 156.24,
+            "end": 163.51999999999998,
+            "text": " HTML documents and display them. But the browser does not display the HTML code. Instead, it uses it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 163.51999999999998,
+            "end": 170.72,
+            "text": " to determine how to display the document. Let's see what kind of building blocks are hidden behind"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 170.72,
+            "end": 179.04,
+            "text": " this web page. This is a visualization of an HTML page structure. You can see the HTML,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 179.12,
+            "end": 183.44,
+            "text": " the head, with the page title below that, and then the body under that."
+        },
+        {
+            "number": "01",
+            "title": "Introduction",
+            "start": 184.72,
+            "end": 193.2,
+            "text": " And that's the basics. Let's delve into this further. But for now, take a break."
+        }
+    ]
+}

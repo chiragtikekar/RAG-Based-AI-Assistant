@@ -1,0 +1,96 @@
+{
+    "language": "en",
+    "chunks": [
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 0.0,
+            "end": 5.76,
+            "text": " When you're creating and modifying webpages, you can use any professional HTML editor."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 5.76,
+            "end": 11.76,
+            "text": " But when you're learning HTML, you should start with a simple text editor like Notepad on PCs"
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 11.76,
+            "end": 17.36,
+            "text": " or TextEdit on Macs. It's better to start simple before jumping into the deep end."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 18.240000000000002,
+            "end": 24.48,
+            "text": " Here are four steps to create your first web page. Step one, open Notepad or TextEdit."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 24.48,
+            "end": 26.48,
+            "text": " In this video, we will use Notepad."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 27.36,
+            "end": 30.96,
+            "text": " Now it's time for step two. Write some HTML."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 32.56,
+            "end": 36.88,
+            "text": " Stretch your fingers and then either write or copy some HTML into Notepad."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 38.72,
+            "end": 46.24,
+            "text": " Then comes step three. Save your work as an HTML page. Look at you moving along so fast."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 47.44,
+            "end": 55.6,
+            "text": " To save it to select file and then save As. Name the file index.html and set the encoding to"
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 55.6,
+            "end": 64.48,
+            "text": " UTF-8, which is the preferred encoding for all HTML files. HTML files can have HTML or"
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 64.48,
+            "end": 72.88,
+            "text": " just HTML as file extension. And finally, we reach step four. View the HTML page in a browser."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 73.44,
+            "end": 78.88,
+            "text": " Open the saved HTML file in your favourite browser. The result should look like this."
+        },
+        {
+            "number": "02",
+            "title": "Editors",
+            "start": 79.76,
+            "end": 85.2,
+            "text": " And just like that, you've created your first HTML page. You should feel very proud."
+        }
+    ]
+}

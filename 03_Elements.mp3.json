@@ -1,0 +1,194 @@
+{
+    "language": "en",
+    "chunks": [
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 0.0,
+            "end": 6.0,
+            "text": " Now that we know how to create HTML pages, let's see some coding in action."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 6.0,
+            "end": 13.0,
+            "text": " And HTML element usually consists of a start tag and an end tag with the content inserted in between."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 13.0,
+            "end": 18.0,
+            "text": " The HTML element is everything from the start tag to the end tag."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 18.0,
+            "end": 23.0,
+            "text": " For example, the HTML P element defines a paragraph."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 23.0,
+            "end": 32.0,
+            "text": " So if you want a paragraph on your page, write the P start tag, add content inside and close it with the forward slash P end tag."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 32.0,
+            "end": 38.0,
+            "text": " This is now a HTML P element, also known as a paragraph element."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 38.0,
+            "end": 43.0,
+            "text": " All HTML documents consist of nested HTML elements."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 43.0,
+            "end": 47.0,
+            "text": " Nested elements are elements within elements."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 47.0,
+            "end": 57.0,
+            "text": " For instance, these two elements are nested within the body element, which in turn is nested within the HTML element."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 57.0,
+            "end": 60.0,
+            "text": " Let's take a closer look at the different elements."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 60.0,
+            "end": 65.0,
+            "text": " First, the HTML element defines the HTML document."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 65.0,
+            "end": 69.0,
+            "text": " It comes with a start tag and an end tag."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 69.0,
+            "end": 75.0,
+            "text": " Inside the HTML element, we have the body element, which defines the document body."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 75.0,
+            "end": 78.0,
+            "text": " It comes with a start tag and an end tag."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 78.0,
+            "end": 82.0,
+            "text": " The body element contains two other HTML elements."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 82.0,
+            "end": 87.0,
+            "text": " The first one defines a heading with the text, my first heading."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 87.0,
+            "end": 92.0,
+            "text": " The second one defines a paragraph with the text, my first paragraph."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 92.0,
+            "end": 95.0,
+            "text": " Remember to always include the end tag."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 95.0,
+            "end": 102.0,
+            "text": " It might work without it, but there's always a chance it will produce unexpected results or errors."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 102.0,
+            "end": 105.0,
+            "text": " However, some HTML elements do not have content."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 105.0,
+            "end": 110.0,
+            "text": " They're called empty elements and do not have end tags."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 110.0,
+            "end": 115.0,
+            "text": " An example of this is the BR element, which is an element with no content."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 115.0,
+            "end": 118.0,
+            "text": " It just defines a line break."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " HTML tags are not case sensitive."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 120.0,
+            "end": 124.0,
+            "text": " Both lowercase and uppercase works and means the same thing."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 124.0,
+            "end": 128.0,
+            "text": " However, it is recommended to use lowercase tags."
+        },
+        {
+            "number": "03",
+            "title": "Elements",
+            "start": 128.0,
+            "end": 135.0,
+            "text": " And with that said, we've covered the basics of HTML elements and how to use them."
+        }
+    ]
+}
